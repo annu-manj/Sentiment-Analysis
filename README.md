@@ -1,5 +1,5 @@
 # Sentiment-Analysis  
-The "Amazon Alexa Review - Sentiment Analysis" project is focused on analyzing customer reviews of Amazon Alexa products to predict whether the sentiment expressed in a given review is positive or negative. Here's a technical breakdown of the project:
+The "Amazon Alexa Review - Sentiment Analysis" project is focused on analyzing customer reviews of Amazon Alexa products to predict whether the sentiment expressed in a given review is positive or negative. 
 
 ## 1. Dataset  
 Amazon Alexa reviews dataset (amazon_alexa.tsv).
